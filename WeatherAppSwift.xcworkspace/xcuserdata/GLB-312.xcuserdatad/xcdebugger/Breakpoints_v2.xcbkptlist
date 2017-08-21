@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherAppSwift/ViewController.swift"
+            timestampString = "524840368.965262"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsReaderViewController.swift"
+            timestampString = "525005438.636904"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherAppSwift.NewsReaderViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "WeatherAppSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GLB-312/Documents/Shakti%20Projects/WeatherAppSwift/NewsReaderViewController.swift"
+                  timestampString = "525003584.660226"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherAppSwift.NewsReaderViewController.(viewDidLoad () -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "WeatherAppSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GLB-312/Documents/Shakti%20Projects/WeatherAppSwift/NewsReaderViewController.swift"
+                  timestampString = "525003584.661528"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherAppSwift/Apihelperclass.swift"
+            timestampString = "525002776.213711"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getnewsfeedsData(callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherAppSwift.Apihelperclass.(getnewsfeedsData (callback : (__ObjC.NSArray) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "WeatherAppSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GLB-312/Documents/Shakti%20Projects/WeatherAppSwift/WeatherAppSwift/Apihelperclass.swift"
+                  timestampString = "525003584.664558"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherAppSwift.Apihelperclass.(getnewsfeedsData (callback : (__ObjC.NSArray) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "WeatherAppSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GLB-312/Documents/Shakti%20Projects/WeatherAppSwift/WeatherAppSwift/Apihelperclass.swift"
+                  timestampString = "525003584.665849"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1089">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
